@@ -2,7 +2,7 @@ cmake_minimum_required (VERSION 2.8.3)
 
 project (libdtls_test)
 
-set(TINYDTLS_SOURCES_DIR tinydtls)
+set(TINYDTLS_SOURCES_DIR esse)
 set(TINYDTLS_SOURCES
 	${TINYDTLS_SOURCES_DIR}/dtls.c
     ${TINYDTLS_SOURCES_DIR}/crypto.c
