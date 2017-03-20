@@ -1,0 +1,4 @@
+/home/william/libDTLS/wakaaDTLS/testwithwakaama/out/CMakeFiles/edit_cache.dir
+/home/william/libDTLS/wakaaDTLS/testwithwakaama/out/CMakeFiles/rebuild_cache.dir
+/home/william/libDTLS/wakaaDTLS/testwithwakaama/out/CMakeFiles/test.dir
+/home/william/libDTLS/wakaaDTLS/testwithwakaama/out/CMakeFiles/tinydtls.dir
